@@ -542,9 +542,9 @@
   login register
 ---------------------- */
 .backround-logis{
- background:url(images/backgroundProduct.jpg);
- background-size: cover;
- background-repeat: repeat;
+  background-image:url('/Group02_LaImperial-main/images/backgroundProduct.jpg');
+  background-size: cover;
+  background-repeat: repeat;
 }
 .namlogin {
   width: 450px;
