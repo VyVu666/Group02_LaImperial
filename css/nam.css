@@ -542,7 +542,7 @@
   login register
 ---------------------- */
 .backround-logis{
- background-image: url(images/backgroundProduct.jpg);
+ background:url(images/backgroundProduct.jpg);
  background-size: cover;
  background-repeat: repeat;
 }
