@@ -547,7 +547,7 @@
   background-repeat: repeat;
 }
 .namlogin {
-  width: 450px;
+  width: 350px;
   height: 450px;
   box-sizing: border-box;
   border: none;
@@ -589,21 +589,18 @@
   text-align: center;
 }
 
-.nam-logback .form input {
+.nam-logback .form #username-reg ,.form #confirmpassword ,.form #password-reg {
   width: 100%;
   padding: 10px;
   box-sizing: border-box;
   border: none;
-  border-bottom: 2px solid;
 }
 
 .checkbox1 {
-  margin: 30px 0;
+  margin: 15px 0;
   font-size: 18px;
   color: #000;
 }
-
- 
 
 .checkbox1 a {
   float: right;
@@ -612,12 +609,12 @@
 
 .nam-logback {
   height: 500px;
-  margin: 50px 500px;
+  margin: 50px 30%;
 }
 
 /*  */
 .nam-regback {
-  width: 450px;
+  width: 350px;
   height: 450px;
   box-sizing: border-box;
   border: none;
@@ -662,7 +659,7 @@
 
 .nam-regback {
   height: 500px;
-  margin: 50px 500px;
+  margin: 50px 30%;
 }
 
 /*  */
