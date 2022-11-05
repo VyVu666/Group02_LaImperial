@@ -595,7 +595,9 @@
   box-sizing: border-box;
   border: none;
 }
-
+.backround-logis .form input{
+  margin-bottom:15px;
+}
 .checkbox1 {
   margin: 15px 0;
   font-size: 18px;
