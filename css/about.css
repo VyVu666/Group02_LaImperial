@@ -1,7 +1,7 @@
 .group-timeline{
     margin:20px;
     padding: 20px;
-    background:url(images/product-details-images/about-background.jpg);
+    background-image: url("/images/product-details-images/about-background.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
