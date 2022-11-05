@@ -13,7 +13,7 @@
   width: 95%;
   height: 650px;
   top: 50%;
-  left: 50%;
+  left: 51%;
   transform: translate(-50%, -50%);
   background-image: linear-gradient(-60deg, #fff 50%, burlywood 50%);
   overflow: hidden;
@@ -394,7 +394,7 @@
 .nam-product .content h4 {
   color: rgb(6, 6, 6);
   padding-top: 10px;
-  border-top: 1px solid rgb(255, 0, 0);
+  border-top: 1px solid burlywood;
 }
 
 .nam-product .show {
@@ -541,13 +541,8 @@
 /*--------------------- 
   login register
 ---------------------- */
-.backround-logis{
-  background-image:url('../images/backgroundProduct.jpg');
-  background-size: cover;
-  background-repeat: repeat;
-}
 .namlogin {
-  width: 450px;
+  width: 400px;
   height: 450px;
   box-sizing: border-box;
   border: none;
@@ -564,25 +559,28 @@
 }
 
 .btn1 button {
-  margin-top: 10px;
   width: 100%;
-  background-color: rgb(248, 248, 248);
-  padding: 10px;
+  background-color: burlywood;
+  padding: 7px;
   border: none;
-  color: #000;
+  color: #fff;
   border-radius: 5px;
   font-size: 18px;
   font-weight: bold;
 }
 
 .btn1 button:hover {
-  background: burlywood;
+  background: black;
+  color: white;
 }
 
 .nam-logback a {
-  padding: 0 25px;
+  padding: 0 20px;
   text-decoration: none;
   color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: monospace;
 }
 
 .container_nam h1 {
@@ -591,10 +589,10 @@
 
 .nam-logback .form input {
   width: 100%;
-  padding: 10px;
+  padding: 7px;
   box-sizing: border-box;
   border: none;
-  border-bottom: 2px solid;
+  border-bottom: 1px solid black;
 }
 
 .checkbox1 {
@@ -603,8 +601,6 @@
   color: #000;
 }
 
- 
-
 .checkbox1 a {
   float: right;
   padding: 0;
@@ -612,12 +608,12 @@
 
 .nam-logback {
   height: 500px;
-  margin: 50px 500px;
+  margin: 50px 30%;
 }
 
 /*  */
 .nam-regback {
-  width: 450px;
+  width: 400px;
   height: 450px;
   box-sizing: border-box;
   border: none;
@@ -628,23 +624,27 @@
 .nam-regback .btn1 button {
   margin-top: 30px;
   width: 100%;
-  background-color: rgb(248, 248, 248);
-  padding: 10px;
+  background-color: burlywood;
+  padding: 7px;
   border: none;
-  color: #000;
+  color: #fff;
   border-radius: 5px;
   font-size: 18px;
   font-weight: bold;
 }
 
 .nam-regback .btn1 button:hover {
-  background: burlywood;
+  background: black;
+  color: white;
 }
 
 .nam-regback .container_nam a {
-  padding: 0 25px;
+  padding: 0 20px;
   text-decoration: none;
   color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: monospace;
 }
 
 .container_nam h1 {
@@ -656,13 +656,13 @@
   padding: 10px;
   box-sizing: border-box;
   border: none;
-  margin-top: 30px;
-  border-bottom: 2px solid;
+  margin-top: 20px;
+  border-bottom: 1px solid black;
 }
 
 .nam-regback {
   height: 500px;
-  margin: 50px 500px;
+  margin: 50px 30%;
 }
 
 /*  */
