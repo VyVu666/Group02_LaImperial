@@ -9,7 +9,7 @@ Project title: La Imperial
 
 ========> Group 02 <=========
 
-3 collaborators:
+4 collaborators:
   Student1396501 Vũ Thảo Vy(Leader)
   Student1400977 Huỳnh Nhật Quang 
   Student1396969 Chu Văn Nam 
