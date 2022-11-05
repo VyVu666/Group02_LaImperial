@@ -589,7 +589,7 @@
   text-align: center;
 }
 
-.nam-logback .form #username-reg ,.form #confirmpassword ,.form #password-reg {
+ .form #username-reg ,.form #confirmpassword ,.form #password-reg {
   width: 100%;
   padding: 10px;
   box-sizing: border-box;
@@ -648,7 +648,7 @@
   text-align: center;
 }
 
-.nam-regback .form #username , .form #passwork {
+.namlogin .form #username , .form #passwork {
   width: 100%;
   padding: 10px;
   box-sizing: border-box;
