@@ -541,13 +541,8 @@
 /*--------------------- 
   login register
 ---------------------- */
-.backround-logis{
-  background-image:url('../images/backgroundProduct.jpg');
-  background-size: cover;
-  background-repeat: repeat;
-}
 .namlogin {
-  width: 350px;
+  width: 400px;
   height: 450px;
   box-sizing: border-box;
   border: none;
@@ -564,42 +559,44 @@
 }
 
 .btn1 button {
-  margin-top: 10px;
   width: 100%;
-  background-color: rgb(248, 248, 248);
-  padding: 10px;
+  background-color: burlywood;
+  padding: 7px;
   border: none;
-  color: #000;
+  color: #fff;
   border-radius: 5px;
   font-size: 18px;
   font-weight: bold;
 }
 
 .btn1 button:hover {
-  background: burlywood;
+  background: black;
+  color: white;
 }
 
 .nam-logback a {
-  padding: 0 25px;
+  padding: 0 20px;
   text-decoration: none;
   color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: monospace;
 }
 
 .container_nam h1 {
   text-align: center;
 }
 
- .form #username-reg ,.form #confirmpassword ,.form #password-reg {
+.nam-logback .form input {
   width: 100%;
-  padding: 10px;
+  padding: 7px;
   box-sizing: border-box;
   border: none;
+  border-bottom: 1px solid black;
 }
-.backround-logis .form input{
-  margin-bottom:15px;
-}
+
 .checkbox1 {
-  margin: 15px 0;
+  margin: 30px 0;
   font-size: 18px;
   color: #000;
 }
@@ -616,7 +613,7 @@
 
 /*  */
 .nam-regback {
-  width: 350px;
+  width: 400px;
   height: 450px;
   box-sizing: border-box;
   border: none;
@@ -627,36 +624,40 @@
 .nam-regback .btn1 button {
   margin-top: 30px;
   width: 100%;
-  background-color: rgb(248, 248, 248);
-  padding: 10px;
+  background-color: burlywood;
+  padding: 7px;
   border: none;
-  color: #000;
+  color: #fff;
   border-radius: 5px;
   font-size: 18px;
   font-weight: bold;
 }
 
 .nam-regback .btn1 button:hover {
-  background: burlywood;
+  background: black;
+  color: white;
 }
 
 .nam-regback .container_nam a {
-  padding: 0 25px;
+  padding: 0 20px;
   text-decoration: none;
   color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: monospace;
 }
 
 .container_nam h1 {
   text-align: center;
 }
 
-.namlogin .form #username , .form #passwork {
+.nam-regback .form input {
   width: 100%;
   padding: 10px;
   box-sizing: border-box;
   border: none;
-  margin-top: 30px;
-  border-radius:5px;
+  margin-top: 20px;
+  border-bottom: 1px solid black;
 }
 
 .nam-regback {
