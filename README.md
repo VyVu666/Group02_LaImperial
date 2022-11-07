@@ -20,7 +20,7 @@ eProject documentation at https://github.com/VyVu666/Group02_LaImperial/Document
 
 ============================
 
-eProject published at https://github.com/VyVu666/Group02_LaImperial
+eProject published at https://vyvu666.github.io/Group02_LaImperial/
 
 ============================
 
